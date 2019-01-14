@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Colors used by Swipe Refresh Progress Indicator -->
+    <array name="swipe_refresh_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/colorAccent</item>
+        <item>#00bcd4</item>
+        <item>#607d8b</item>
+    </array>
+
+    <!-- =========================== -->
+    <!-- FOR THE PLACE LIST FRAGMENT -->
+    <!-- =========================== -->
+    <array name="place_list_entries">
+        <item>@array/place_mysore_palace</item>
+        <item>@array/place_chamundi_temple</item>
+        <item>@array/place_mysore_zoo</item>
+        <item>@array/place_philomena_church</item>
+        <item>@array/place_jagan_mohan_palace</item>
+        <item>@array/place_rmnh</item>
+        <item>@array/place_lalitha_mahal</item>
+        <item>@array/place_sand_sculpture</item>
+        <item>@array/place_venugopala_temple</item>
+        <item>@array/place_krs</item>
+        <item>@array/place_sachchidananda_ashram</item>
+        <item>@array/place_grs_fantasy_park</item>
+    </array>
+
+    <!-- ========================== -->
+    <!-- FOR THE PARK LIST FRAGMENT -->
+    <!-- ========================== -->
+    <array name="park_list_entries">
+        <item>@array/park_brindavan_garden</item>
+        <item>@array/park_karanji_lake</item>
+        <item>@array/park_lingambudhi_lake</item>
+        <item>@array/park_kukkarahalli_lake</item>
+        <item>@array/park_bonsai_garden</item>
+        <item>@array/park_shuka_vana</item>
+        <item>@array/park_kupanna</item>
+        <item>@array/park_freedom_fighter</item>
+    </array>
+
+    <!-- =========================== -->
+    <!-- FOR THE HOTEL LIST FRAGMENT -->
+    <!-- =========================== -->
+    <array name="hotel_list_entries">
+        <item>@array/hotel_grand_mercure</item>
+        <item>@array/hotel_lalitha_mahal_palace</item>
+        <item>@array/hotel_radisson_blu</item>
+        <item>@array/hotel_fortune_jp_palace</item>
+        <item>@array/hotel_le_ruchi_the_prince</item>
+        <item>@array/hotel_windflower</item>
+        <item>@array/hotel_silent_shores</item>
+        <item>@array/hotel_sandesh_the_prince</item>
+        <item>@array/hotel_southern_star</item>
+        <item>@array/hotel_akshaya_mahal_inn</item>
+        <item>@array/hotel_pai_vista</item>
+        <item>@array/hotel_the_quorum</item>
+        <item>@array/hotel_jade_garden</item>
+        <item>@array/hotel_parklane</item>
+        <item>@array/hotel_golden_landmark</item>
+    </array>
+
+    <!-- ================================ -->
+    <!-- FOR THE RESTAURANT LIST FRAGMENT -->
+    <!-- ================================ -->
+    <array name="restaurant_list_entries">
+        <item>@array/restaurant_onesta</item>
+        <item>@array/restaurant_the_old_house</item>
+        <item>@array/restaurant_barbeque_nation</item>
+        <item>@array/restaurant_gufha</item>
+        <item>@array/restaurant_green_leaf</item>
+        <item>@array/restaurant_highway_18</item>
+        <item>@array/restaurant_corner_house</item>
+        <item>@array/restaurant_mahesh_prasad</item>
+        <item>@array/restaurant_tina_cafe</item>
+        <item>@array/restaurant_amrutha_veg</item>
+        <item>@array/restaurant_orchid</item>
+        <item>@array/restaurant_the_roost</item>
+        <item>@array/restaurant_shree_guru_residency</item>
+        <item>@array/restaurant_mysouth</item>
+        <item>@array/restaurant_olive_garden</item>
+        <item>@array/restaurant_mylari</item>
+        <item>@array/restaurant_mysore_socials</item>
+    </array>
+
+    <!-- ========================== -->
+    <!-- FOR THE SHOP LIST FRAGMENT -->
+    <!-- ========================== -->
+    <array name="shop_list_entries">
+        <item>@array/shop_devaraj_urs_road</item>
+        <item>@array/shop_ksic</item>
+        <item>@array/shop_suryanis_silks</item>
+        <item>@array/shop_suryani_fine_arts</item>
+        <item>@array/shop_garuda_mall</item>
+        <item>@array/shop_badsha_stores</item>
+        <item>@array/shop_mall_of_mysore</item>
+        <item>@array/shop_bm_habitat_mall</item>
+        <item>@array/shop_forum_centre_city_mall</item>
+        <item>@array/shop_mysore_central</item>
+    </array>
+
+</resources>

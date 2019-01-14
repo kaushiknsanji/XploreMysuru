@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This resource is used for storing the information for Hotels -->
+
+    <!-- Template followed for the Hotel data -->
+    <!--<string-array name="hotel_template">
+        <item>Name</item>
+        <item>Hotel Star Rating Graphic (path to drawable)</item>
+        <item>Traveller Rating (in Number)</item>
+        <item>Hotel Image (path to drawable)</item>
+        <item>Rate per Night</item>
+        <item>Location for Map</item>
+        <item>Phone Number</item>
+        <item>Site link to more info</item>
+    </string-array>-->
+
+    <!-- Grand Mercure -->
+    <string-array name="hotel_grand_mercure">
+        <item>Grand Mercure</item>
+        <item>@drawable/layer_hotel_5_star</item>
+        <item>4.5</item>
+        <item>@drawable/hotel_grand_mercure</item>
+        <item>₹4800 (2 adults per Night)</item>
+        <item>Grand Mercure, 2203/60 Nelson Mandela Circle, New Sayyaji Rao Rd, Mysuru, Bamboo Bazar, Karnataka</item>
+        <item>+918214021212</item>
+        <item>https://www.accorhotels.com/gb/hotel-9306-grand-mercure-mysuru-/index.shtml</item>
+    </string-array>
+
+    <!-- Lalitha Mahal Palace Hotel -->
+    <string-array name="hotel_lalitha_mahal_palace">
+        <item>Lalitha Mahal Palace Hotel</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>3.5</item>
+        <item>@drawable/hotel_lalitha_mahal_palace</item>
+        <item>₹6000 (2 adults per Night)</item>
+        <item>Lalitha Mahal Palace Road, Siddhartha Layout, Lalith Mahal Quatras, Mysuru, Karnataka</item>
+        <item>+918212470444</item>
+        <item>http://www.lalithamahalpalace.co.in/</item>
+    </string-array>
+
+    <!-- Radisson Blu Plaza -->
+    <string-array name="hotel_radisson_blu">
+        <item>Radisson Blu Plaza</item>
+        <item>@drawable/layer_hotel_5_star</item>
+        <item>4.5</item>
+        <item>@drawable/hotel_radisson_blu</item>
+        <item>₹6000 (2 adults per Night)</item>
+        <item>Radisson Blu Plaza Hotel, 1, MG Road, Indiranagar Extension, JC Nagar, Mysuru, Karnataka</item>
+        <item>+918217101234</item>
+        <item>https://www.radissonblu.com/en/hotel-mysore</item>
+    </string-array>
+
+    <!-- Fortune JP Palace -->
+    <string-array name="hotel_fortune_jp_palace">
+        <item>Fortune JP Palace</item>
+        <item>@drawable/layer_hotel_5_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_fortune_jp_palace</item>
+        <item>₹5500 (2 adults per Night)</item>
+        <item>Fortune JP Palace, #3, Abba Rd, Earangere, Nazarbad, Mysuru, Karnataka</item>
+        <item>+918216655444</item>
+        <item>https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11</item>
+    </string-array>
+
+    <!-- Le Ruchi The Prince -->
+    <string-array name="hotel_le_ruchi_the_prince">
+        <item>Le Ruchi The Prince</item>
+        <item>@drawable/layer_hotel_4_star</item>
+        <item>4.5</item>
+        <item>@drawable/hotel_le_ruchi_the_prince</item>
+        <item>₹4500 (2 adults per Night)</item>
+        <item>Le Ruchi The Prince, Hunsur Road, 986/625, 12th Main Road, Vijayanagar 4th Stage, Hinkal, Mysuru, Karnataka</item>
+        <item>+919945811022</item>
+        <item>http://www.leruchi.com/</item>
+    </string-array>
+
+    <!-- The Windflower Resort and Spa -->
+    <string-array name="hotel_windflower">
+        <item>The Windflower Resort &amp; Spa</item>
+        <item>@drawable/layer_hotel_4_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_windflower</item>
+        <item>₹6500 (2 adults per Night)</item>
+        <item>The Windflower Resort, No 295, Maharanapratap Road, Nazarbad, Chamundipuram, Mysuru, Karnataka</item>
+        <item>+919901446666</item>
+        <item>https://www.thewindflower.com/mysore/index.htm</item>
+    </string-array>
+
+    <!-- Silent Shores Resort and Spa -->
+    <string-array name="hotel_silent_shores">
+        <item>Silent Shores Resort &amp; Spa</item>
+        <item>@drawable/layer_hotel_4_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_silent_shores</item>
+        <item>₹5000 (2 adults per Night)</item>
+        <item>Silent Shores Resort, No. 85&#8211;87, BEML Road, Hootagalli, Mysuru, Karnataka</item>
+        <item>+918212402930</item>
+        <item>https://www.silentshoresresort.com/</item>
+    </string-array>
+
+    <!-- Sandesh The Prince -->
+    <string-array name="hotel_sandesh_the_prince">
+        <item>Sandesh The Prince</item>
+        <item>@drawable/layer_hotel_4_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_sandesh_the_prince</item>
+        <item>₹4700 (2 adults per Night)</item>
+        <item>Sandesh The Prince, No 3, Nethra Nivas, Nazarbad Main Rd, Nazarbad, Mysuru, Karnataka</item>
+        <item>+918212436999</item>
+        <item>http://www.sandeshtheprince.com/</item>
+    </string-array>
+
+    <!-- Southern Star -->
+    <string-array name="hotel_southern_star">
+        <item>Southern Star</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>4.5</item>
+        <item>@drawable/hotel_southern_star</item>
+        <item>₹3500 (2 adults per Night)</item>
+        <item>Southern Star, 13&#8211;14, Vinoba Rd, Devaraja Mohalla, CFTRI Campus, Kajjihundi, Mysuru, Karnataka</item>
+        <item>+918212426426</item>
+        <item>http://www.hotelsouthernstar.com/mysuru/</item>
+    </string-array>
+
+    <!-- Akshaya Mahal Inn -->
+    <string-array name="hotel_akshaya_mahal_inn">
+        <item>Akshaya Mahal Inn</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>4.5</item>
+        <item>@drawable/hotel_akshaya_mahal_inn</item>
+        <item>₹2500 (2 adults per Night)</item>
+        <item>Akshaya Mahal Inn, Earangere, Mandi Mohalla, Mysuru, Karnataka</item>
+        <item>+919322800100</item>
+        <item>https://www.treebo.com/hotels-in-mysore/treebo-akshaya-mahal-inn-nazarabad-mohalla-554</item>
+    </string-array>
+
+    <!-- Pai Vista -->
+    <string-array name="hotel_pai_vista">
+        <item>Pai Vista</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_pai_vista</item>
+        <item>₹3500 (2 adults per Night)</item>
+        <item>Pai Vista, 35/A, Behind Bhima Jewellery, Bangalore Nilgiri Road, Doora, Nazarbad, Mysuru, Karnataka</item>
+        <item>+918212521111</item>
+        <item>https://www.paihotels.com/hotel-pai-vista-mysore/</item>
+    </string-array>
+
+    <!-- The Quorum -->
+    <string-array name="hotel_the_quorum">
+        <item>The Quorum</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_the_quorum</item>
+        <item>₹4000 (2 adults per Night)</item>
+        <item>The Quorum, 2257/,B&#8211;1,/1 1318, Vinoba Road, Near Kala Mandir, Devaraja Mohalla-1, CFTRI Campus, Kajjihundi, Mysuru, Karnataka</item>
+        <item>+918214292777</item>
+        <item>https://the-quorum-hotel.business.site/</item>
+    </string-array>
+
+    <!-- Jade Garden -->
+    <string-array name="hotel_jade_garden">
+        <item>Jade Garden</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_jade_garden</item>
+        <item>₹3200 (2 adults per Night)</item>
+        <item>Jade Garden, 1064/1, Jayalakshmi Villas Road, Chamarajapuram, Mysuru, Karnataka</item>
+        <item>+919686669904</item>
+        <item>http://jadegarden.in/</item>
+    </string-array>
+
+    <!-- Parklane -->
+    <string-array name="hotel_parklane">
+        <item>Parklane</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_parklane</item>
+        <item>₹1700 (2 adults per Night)</item>
+        <item>Parklane Hotel, Sri Harsha Rd, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka</item>
+        <item>+918214003500</item>
+        <item>http://parklanemysore.com/</item>
+    </string-array>
+
+    <!-- Golden Landmark Resort -->
+    <string-array name="hotel_golden_landmark">
+        <item>Golden Landmark Resort</item>
+        <item>@drawable/layer_hotel_3_star</item>
+        <item>4.0</item>
+        <item>@drawable/hotel_golden_landmark</item>
+        <item>₹4500 (2 adults per Night)</item>
+        <item>Golden Landmark Resort, 45/A, KRS Road, Metagalli, Hebbal Industrial Estate, Hebbal, Mysuru, Karnataka</item>
+        <item>+918212417171</item>
+        <item>http://www.goldenlandmark.in/</item>
+    </string-array>
+
+</resources>

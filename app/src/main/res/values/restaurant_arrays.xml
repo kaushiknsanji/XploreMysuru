@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This resource is used for storing the information for Restaurants -->
+
+    <!-- Template followed for the Restaurant data -->
+    <!--<string-array name="restaurant_template">
+        <item>Name</item>
+        <item>Cuisine types</item>
+        <item>Foodie Rating (in Number)</item>
+        <item>Restaurant Image (path to drawable)</item>
+        <item>Timings</item>
+        <item>Cost</item>
+        <item>Location for Map</item>
+        <item>Phone Number</item>
+        <item>Site link to more info</item>
+    </string-array>-->
+
+    <!-- Onesta -->
+    <string-array name="restaurant_onesta">
+        <item>Onesta</item>
+        <item>Italian</item>
+        <item>4.9</item>
+        <item>@drawable/restaurant_onesta</item>
+        <item>12:30PM&#8211;11:00PM</item>
+        <item>₹600 for two</item>
+        <item>Onesta, 2927, Shiva\'s Plaza and Star Point, Gokulam Main Rd, Gokulam 2nd Stage, Vani Vilas Mohalla, Mysuru, Karnataka</item>
+        <item>+918214851479</item>
+        <item>https://www.zomato.com/mysore/onesta-gokulam</item>
+    </string-array>
+
+    <!-- The Old House -->
+    <string-array name="restaurant_the_old_house">
+        <item>The Old House</item>
+        <item>Italian</item>
+        <item>4.6</item>
+        <item>@drawable/restaurant_the_old_house</item>
+        <item>7:30AM&#8211;9:45PM (Mon&#8211;Thu)\n7:30AM&#8211;10:15PM (Fri&#8211;Sun)</item>
+        <item>₹800 for two</item>
+        <item>The Old House, Shop No. # 451, JLB Road, Near Big Bazar, Chamarajapuram, Mysuru, Karnataka</item>
+        <item>+919008800044</item>
+        <item>https://www.zomato.com/mysore/the-old-house-chamrajpura</item>
+    </string-array>
+
+    <!-- Barbeque Nation -->
+    <string-array name="restaurant_barbeque_nation">
+        <item>Barbeque Nation</item>
+        <item>North Indian, European, Mediterranean</item>
+        <item>4.7</item>
+        <item>@drawable/restaurant_barbeque_nation</item>
+        <item>11:30AM&#8211;4:00PM\n6:30PM&#8211;11:00PM</item>
+        <item>₹1600 for two</item>
+        <item>Barbeque Nation, Ground Floor, BM Habitat Mall, Mangalore - Mysore Highway, 3rd Block, Jayalakshmipuram, Mysuru, Karnataka</item>
+        <item>+919953216060</item>
+        <item>https://www.barbequenation.com</item>
+    </string-array>
+
+    <!-- Gufha Restaurant -->
+    <string-array name="restaurant_gufha">
+        <item>Gufha Restaurant</item>
+        <item>North Indian, Chinese</item>
+        <item>4.3</item>
+        <item>@drawable/restaurant_gufha</item>
+        <item>12:30PM&#8211;11:00PM</item>
+        <item>₹1000 for two</item>
+        <item>Gufha Restaurant, 35/A, Bangalore Nilgiri Rd, Nazarbad, Mysuru, Karnataka</item>
+        <item>+918494912635</item>
+        <item>https://www.zomato.com/mysore/gufha-restaurant-doora</item>
+    </string-array>
+
+    <!-- Green Leaf -->
+    <string-array name="restaurant_green_leaf">
+        <item>Green Leaf</item>
+        <item>North Indian, Chinese, South Indian</item>
+        <item>4.0</item>
+        <item>@drawable/restaurant_green_leaf</item>
+        <item>8:00AM&#8211;11:30PM</item>
+        <item>₹400 for two</item>
+        <item>Green Leaf, 2813, Kalidasa Rd, Vani Vilas Mohalla, Mysuru, Karnataka</item>
+        <item>+919964044460</item>
+        <item>https://www.zomato.com/mysore/green-leaf-gokulam</item>
+    </string-array>
+
+    <!-- Highway 18 -->
+    <string-array name="restaurant_highway_18">
+        <item>Highway 18</item>
+        <item>North Indian, Chinese, South Indian</item>
+        <item>4.0</item>
+        <item>@drawable/restaurant_highway_18</item>
+        <item>7:30AM&#8211;11:30PM</item>
+        <item>₹400 for two</item>
+        <item>Highway 18, 3922, 6th Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka</item>
+        <item>+918214256000</item>
+        <item>https://www.zomato.com/mysore/highway-18-gokulam</item>
+    </string-array>
+
+    <!-- Corner House -->
+    <string-array name="restaurant_corner_house">
+        <item>Corner House</item>
+        <item>Desserts, Ice Cream</item>
+        <item>4.6</item>
+        <item>@drawable/restaurant_corner_house</item>
+        <item>11:00AM&#8211;11:00PM</item>
+        <item>₹200 for two</item>
+        <item>Corner House, 2664, 2nd Main Rd, Vontikoppal, Mysuru, Karnataka</item>
+        <item>+919686191972</item>
+        <item>https://www.zomato.com/mysore/corner-house-jayalakhsmipuram</item>
+    </string-array>
+
+    <!-- Mahesh Prasad -->
+    <string-array name="restaurant_mahesh_prasad">
+        <item>Mahesh Prasad</item>
+        <item>South Indian, Chinese</item>
+        <item>4.1</item>
+        <item>@drawable/restaurant_mahesh_prasad</item>
+        <item>7:00AM&#8211;10:00PM</item>
+        <item>₹300 for two</item>
+        <item>Mahesh Prasad, Ballal Circle, Chamarajapuram, Mysuru, Karnataka</item>
+        <item>+918212330820</item>
+        <item>https://hotelmaheshprasad.business.site/</item>
+    </string-array>
+
+    <!-- Tina's Cafe -->
+    <string-array name="restaurant_tina_cafe">
+        <item>Tina\'s Cafe</item>
+        <item>North Indian</item>
+        <item>4.3</item>
+        <item>@drawable/restaurant_tina_cafe</item>
+        <item>9:30AM&#8211;10:30PM</item>
+        <item>₹200 for two</item>
+        <item>Tina\'s Cafe, 3rd Main Rd, Vani Vilas Mohalla, Mysuru, Karnataka</item>
+        <item>+919449818668</item>
+        <item>https://www.zomato.com/mysore/tinas-cafe-gokulam</item>
+    </string-array>
+
+    <!-- Amrutha Veg -->
+    <string-array name="restaurant_amrutha_veg">
+        <item>Amrutha Veg</item>
+        <item>South Indian</item>
+        <item>4.0</item>
+        <item>@drawable/restaurant_amrutha_veg</item>
+        <item>6:30AM&#8211;10:30PM</item>
+        <item>₹300 for two</item>
+        <item>Amrutha Veg, 42, Doctor BR Ambedkar Road, Chamarajapuram, Mysuru, Karnataka</item>
+        <item>+919741119363</item>
+        <item>https://www.zomato.com/mysore/amrutha-veg-restaurant-chamrajpura</item>
+    </string-array>
+
+    <!-- Orchid -->
+    <string-array name="restaurant_orchid">
+        <item>Orchid - Fortune JP Palace</item>
+        <item>North Indian, Chinese, Continental</item>
+        <item>4.1</item>
+        <item>@drawable/restaurant_orchid</item>
+        <item>24Hours Open</item>
+        <item>₹1250 for two</item>
+        <item>Orchid, Fortune Jp Palace, Earangere, Nazarbad, Karnataka</item>
+        <item>+918216655444</item>
+        <item>https://www.fortunehotels.in/mysore-fortune-jp-palace-dining.dhm.253</item>
+    </string-array>
+
+    <!-- The Roost -->
+    <string-array name="restaurant_the_roost">
+        <item>The Roost</item>
+        <item>Chinese, Continental, North Indian</item>
+        <item>3.4</item>
+        <item>@drawable/restaurant_the_roost</item>
+        <item>7:30AM&#8211;11:00PM</item>
+        <item>₹550 for two</item>
+        <item>The Roost, Hunsur Rd, Vijayanagar 4th Stage, Hinkal, Ilavala Hobli, Karnataka</item>
+        <item>+918212410077</item>
+        <item>http://www.roosthotel.com/restaurant/</item>
+    </string-array>
+
+    <!-- Shree Guru Residency -->
+    <string-array name="restaurant_shree_guru_residency">
+        <item>Shree Guru Residency</item>
+        <item>South Indian</item>
+        <item>3.8</item>
+        <item>@drawable/restaurant_shree_guru_residency</item>
+        <item>7:00AM&#8211;10:00PM</item>
+        <item>₹500 for two</item>
+        <item>Shree Guru Residency, 2249/1, New No. 10, Jhansi Lakshmi Bai Cross Road, Devaraja Mohalla, CFTRI Campus, Kajjihundi, Mysuru, Karnataka</item>
+        <item>+918214269111</item>
+        <item>https://www.zomato.com/mysore/shree-guru-residency-1-yadavgiri</item>
+    </string-array>
+
+    <!-- Mysouth -->
+    <string-array name="restaurant_mysouth">
+        <item>Mysouth - Radisson Blu Plaza Hotel</item>
+        <item>South Indian</item>
+        <item>4.0</item>
+        <item>@drawable/restaurant_mysouth</item>
+        <item>7:00PM&#8211;11:00PM</item>
+        <item>₹800 for two</item>
+        <item>Mysouth, Radisson Blu Plaza Hotel, 1, MG Road, Indiranagar Extension, JC Nagar, Mysuru, Karnataka</item>
+        <item>+918217101234</item>
+        <item>https://www.radissonblu.com/en/hotel-mysore/restaurants</item>
+    </string-array>
+
+    <!-- Olive Garden -->
+    <string-array name="restaurant_olive_garden">
+        <item>Olive Garden</item>
+        <item>Italian, Continental, North Indian, Chinese</item>
+        <item>4.1</item>
+        <item>@drawable/restaurant_olive_garden</item>
+        <item>12:00PM&#8211;3:00pm\n7:00pm&#8211;11:00pm</item>
+        <item>₹1250 for two</item>
+        <item>Olive Garden, Windflower Resort &amp; Spa Mysore, No 295, Maharanapratap Road, Nazarbad, Mysuru, Karnataka</item>
+        <item>+919731869977</item>
+        <item>http://www.olivegardenmysore.com/</item>
+    </string-array>
+
+    <!-- Mylari -->
+    <string-array name="restaurant_mylari">
+        <item>Hotel Mylari</item>
+        <item>South Indian</item>
+        <item>4.3</item>
+        <item>@drawable/restaurant_mylari</item>
+        <item>7:00AM&#8211;12:00PM\n3:00PM&#8211;8:00PM</item>
+        <item>₹100 for two</item>
+        <item>Hotel Mylari, Shop No. 738, Nazarbad Main Rd, Doora, Mysuru, Karnataka</item>
+        <item>+919845918925</item>
+        <item>https://www.zomato.com/mysore/hotel-mylari-doora</item>
+    </string-array>
+
+    <!-- Mysore Socials -->
+    <string-array name="restaurant_mysore_socials">
+        <item>Mysore Socials</item>
+        <item>Indian, Chinese &amp; Thai</item>
+        <item>4.4</item>
+        <item>@drawable/restaurant_mysore_socials</item>
+        <item>8:00AM&#8211;11:00PM</item>
+        <item>₹1250 for two</item>
+        <item>Mysore Socials, Hebbal Industrial Estate, Hebbal, Ilavala Hobli, Karnataka</item>
+        <item>+919900346297</item>
+        <item>http://www.mysoresocials.com/</item>
+    </string-array>
+
+</resources>

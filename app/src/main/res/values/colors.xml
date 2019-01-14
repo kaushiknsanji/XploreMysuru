@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ================ -->
+    <!-- APP THEME COLORS -->
+    <!-- ================ -->
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#e64a19</color>
+    <color name="colorAccent">#ffd740</color>
+
+    <!-- ============= -->
+    <!-- COMMON COLORS -->
+    <!-- ============= -->
+    <color name="allDividerColor">#757575</color>
+
+    <!-- ========================== -->
+    <!-- PLACE LIST FRAGMENT COLORS -->
+    <!-- ========================== -->
+    <color name="placeListBackgroundColor">#e3c199</color>
+    <color name="placeListItemRatingBackgroundColor">#48000000</color>
+
+    <!-- ========================= -->
+    <!-- PARK LIST FRAGMENT COLORS -->
+    <!-- ========================= -->
+    <color name="parkListBackgroundColor">#A1A451</color>
+    <color name="parkListItemImageTextOverlayBackgroundColor">#80000000</color>
+
+    <!-- ========================== -->
+    <!-- HOTEL LIST FRAGMENT COLORS -->
+    <!-- ========================== -->
+    <color name="hotelListBackgroundColor">#aaa1e2</color>
+    <color name="hotelListItemRatingBackgroundColor">#48000000</color>
+
+    <!-- =============================== -->
+    <!-- RESTAURANT LIST FRAGMENT COLORS -->
+    <!-- =============================== -->
+    <color name="restaurantListBackgroundColor">#F18A05</color>
+    <color name="restaurantListItemImageTextOverlayBackgroundColor">#80000000</color>
+
+    <!-- ========================= -->
+    <!-- SHOP LIST FRAGMENT COLORS -->
+    <!-- ========================= -->
+    <color name="shopListBackgroundColor">#2f7f82</color>
+    <color name="shopListItemImageTextOverlayBackgroundColor">#80000000</color>
+
+    <!-- ===================== -->
+    <!-- ABOUT ACTIVITY COLORS -->
+    <!-- ===================== -->
+    <color name="aboutContentTextColor">#2b0000</color>
+    <color name="aboutInfoCardBackgroundColor">#ffe082</color>
+    <color name="aboutContentLinkTextColor">#0000b5</color>
+
+</resources>

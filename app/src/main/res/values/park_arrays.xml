@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This resource is used for storing the information for Parks -->
+
+    <!-- Template followed for the Parks data -->
+    <!--<string-array name="park_template">
+        <item>Name</item>
+        <item>Star Rating (in Number)</item>
+        <item>Park Image (path to drawable)</item>
+        <item>Time info</item>
+        <item>Entry Fee</item>
+        <item>Location for Map</item>
+        <item>Brief description</item>
+        <item>Site link to more info</item>
+    </string-array>-->
+
+    <!-- Brindavan Gardens -->
+    <string-array name="park_brindavan_garden">
+        <item>Brindavan Gardens</item>
+        <item>4.2</item>
+        <item>@drawable/park_brindavan_garden</item>
+        <item>6:00AM&#8211;8:00PM</item>
+        <item>Adult: ₹15\nChild: ₹5</item>
+        <item>Brindavan Gardens, KRS Dam Road, Mandya, Karnataka</item>
+        <item>Primarily a terrace garden, the Brindavan Gardens, has been built across the notable river of India, Cauvery, in the complex of KRS Dam. The creation of these gardens began in the year of 1927, when the department of Horticulture started the work. It is said the work was completed in 1932.\n\nIt was the idea of Sir Mirza Ismail, the then diwan of Mysore state to beautify the area around the Krishnaraja Sagar Dam (KRS Dam) which is located in situated in Srirangapatna taluk of Mandya district. This dam, named after Krishnaraja Wodeyar IV, has been built over Cauvery River, which is one of the prominent rivers of South India. Brindavan Gardens have been designed by seeking inspiration from Shalimar Gardens of Kashmir, which have been created in the ancient Mughal style. Hence, it also radiates grandeur and beauty, comprising of a wide array of fountains, terraces, water channels, parterres, lawns and flowerbeds.</item>
+        <item>http://www.horticulture.kar.nic.in/brindavan.htm</item>
+    </string-array>
+
+    <!-- Karanji Lake -->
+    <string-array name="park_karanji_lake">
+        <item>Karanji Lake</item>
+        <item>4.4</item>
+        <item>@drawable/park_karanji_lake</item>
+        <item>8:30AM&#8211;5:30PM\nClosed on Tuesdays</item>
+        <item>Adult: ₹10\nChild(5&#8211;15years): ₹5\nSenior Citizens: ₹5\nVideo Camera: ₹25</item>
+        <item>Karanji Lake, Jockey Quarters, Mysuru, Karnataka</item>
+        <item>Karanji Lake is a picturesque lake located at the footsteps of Chamundi Hills and behind Mysore Zoo. Karanji means \'fountain\' in Kannada. Spread over an area of 90 hectares, it is regarded as one of the biggest lakes in Karnataka. Karanji Lake is home to more than 90 species of resident and migratory birds. It also supports several species of butterflies, small mammals and is a good example of wetland ecosystem. The lake attracts painted storks, pelicans and darters and a host of other winged beauties. It includes a walk through aviary for chirping birds, generating cheerfulness among visitors. This aviary is constructed on the banks of the lake has a length of 60m, width of 40m and 20m height making it India\'s biggest walk-through aviary. The birds are within handshaking distance. Karanji Lake has a butterfly park housing a large variety of plant species to attract butterflies. Karanji Lake also includes children corner and boating facilities. The high observation tower gives a grand view of greenery stretching all around.</item>
+        <item>https://en.wikipedia.org/wiki/Karanji_Lake</item>
+    </string-array>
+
+    <!-- Lingambudhi Lake -->
+    <string-array name="park_lingambudhi_lake">
+        <item>Lingambudhi Lake</item>
+        <item>4.0</item>
+        <item>@drawable/park_lingambudhi_lake</item>
+        <item>6:00AM&#8211;6:00PM</item>
+        <item>Free</item>
+        <item>Lingambudhi Lake, Ramakrishnanagar, Mysuru, Karnataka</item>
+        <item>Situated in Srirampura, Lingambudhi Lake is a freshwater lake that is about 8 km from the heart of the city. This lake was built by Mysore Maharaja Krishnaraja Wodeyar III in the year 1828. With an area of almost 260 acres, this lake is largest as well as the oldest lake in Mysore. It is an ideal place to visit if you are looking for a place away from the hustle-bustle and crowds of tourist places. This lake offers a scenic setting for visitors to relax in the midst of lush greenery and soothing expanse of water. Along with this, it also boasts of having more than 250 kinds of avian fauna. Also a bio-diversity park, an approximate of 250 varied species of birds can be found here. Various rare species of bird can be spotted during the migratory season; birds from all over the world fly to this place during the said season. Many migratory birds come to this lake and the area around in the month of September; they again fly to the lake in the month of March and April and make it their breeding place.</item>
+        <item>https://www.mysoretourism.org.in/lingabudi-lake-mysore</item>
+    </string-array>
+
+    <!-- Kukkarahalli Lake -->
+    <string-array name="park_kukkarahalli_lake">
+        <item>Kukkarahalli Lake</item>
+        <item>4.4</item>
+        <item>@drawable/park_kukkarahalli_lake</item>
+        <item>6:00AM&#8211;10:00AM\n4:00PM&#8211;7:00PM</item>
+        <item>Free</item>
+        <item>Kukkarahalli Lake, Saraswathipuram, Mysuru, Karnataka</item>
+        <item>At a distance of 3.5km from Mysore Railway Station and 4km from KSRTC Bus Station, Kukkarahalli Lake is situated in the heart of the Mysore City and lies in the vicinity of the University of Mysore. The Kukkarahalli Lake or Kukkarahalli Kere was built in 1864 AD by Dewan Poornaiah. This lake sprawls over an area of 120 acres. The lake is a paradise for bird watchers and it has more than 180 species of birds. The lake is used by the naval wing of the National Cadet Corps to provide boat-pulling training to its cadets for the annual boat-pulling competition. Karnataka State Tourism division provides boating facility in both motor and pedal boats. Lake is surrounded by an unpaved 4.5km walking path with stone benches.</item>
+        <item>https://en.wikipedia.org/wiki/Kukkarahalli_Lake</item>
+    </string-array>
+
+    <!-- Bonsai Garden -->
+    <string-array name="park_bonsai_garden">
+        <item>Bonsai garden</item>
+        <item>4.5</item>
+        <item>@drawable/park_bonsai_garden</item>
+        <item>9:30AM&#8211;1:00PM\n3:30PM&#8211;5:30PM\nClosed on Wednesdays</item>
+        <item>₹20</item>
+        <item>Bonsai garden, Sri Ganapati Sachchidananda Ashrama, Ooty Rd, Datta Nagar, Mysuru, Karnataka</item>
+        <item>One of the more unique attractions of the Royal Mysore, the Bonsai Garden of Mysore is home to over a 100 different varieties of Bonsai trees spread across this vast estate. It is a part of the Avadoota Datta Peetham of the Sri Ganapathi Sachidananda Ashrama. Initially a pet project by the fascinated Swamiji, the garden now hosts 450 miniature tree across an area of 4 acres, filled with these quirky dwarf trees. The beauty of the garden is accentuated by the stream that flows within, as well as the placement of Buddha statues and monkey statues around the area, representative of the zen culture from where the art of Bonsai was evolved. There is also a deer park to cater to the nature lovers who visit.\n\nThe garden and the exhibits have been divided into various zones within, representing different Indian traditions and beliefs as followed by the Swamiji. Thus, one can find plants with connections to the Indian zodiac system, Indian classical music, the representation of the 27 stars of traditional Indian astrology, the seven Indian sages or Saptarishi, and five plant gardens closely linked with the concept of the Mother Goddess. The garden is indeed a delight to walk through, and one can\'t help but appreciate the fine art and effort required to shape a 100-year-old tree within a lovely terracotta pot.</item>
+        <item>http://www.sgsbonsai.org/</item>
+    </string-array>
+
+    <!-- Shuka Vana -->
+    <string-array name="park_shuka_vana">
+        <item>Shuka Vana</item>
+        <item>4.6</item>
+        <item>@drawable/park_shuka_vana</item>
+        <item>9:30AM&#8211;12:30PM\n3:30PM&#8211;5:30PM\nClosed on Wednesdays</item>
+        <item>Free</item>
+        <item>Shuka Vana, Sri Ganapati Sachchidananda Ashrama, Ooty Rd, Datta Nagar, Mysuru, Karnataka</item>
+        <item>Home to over 2000 birds, the Shuka Vana in Mysore is a must visit for ornithophiles and nature lovers. With over 450 varied species, this striking 50m high aviary spanning an area of 1 acre currently holds the record for most bird species in an aviary in the Guinness Book of World Records. This unique park, commonly known as parrot park, is a part of the Avadhoota Datta Peetham in the Sri Ganapathi Sachidananda Ashram, and also serves as a rehabilitation centre for abused, injured and abandoned birds. One can find many rare species of parrots flying around this beautiful enclosure.\n\nThe revered seer of the ashram, Sri Ganapathi Sachidananda Swamiji believes that birds are vital to the existence of other species, and their diminishing numbers in recent years have been a cause for alarm and a call to action. Through this initiative, he hopes to inform, sensitise, and grow a sense of respect and friendliness amongst the general public towards the avian species. Parrots here have been assigned as per the zodiac signs they are connected with, and one can find a parrot that represents their birth date and planet as per Indian astrology. Parrots here can also be found to symbolise days and months of the year. It is quite impressive to observe a large number of these delightful creatures, considered vessels to invisible spirit dimensions.</item>
+        <item>http://sgsbirds.com/</item>
+    </string-array>
+
+    <!-- Kuppanna Park -->
+    <string-array name="park_kupanna">
+        <item>Kuppanna Park</item>
+        <item>4.0</item>
+        <item>@drawable/park_kupanna</item>
+        <item>9:00AM&#8211;8:00PM</item>
+        <item>₹20</item>
+        <item>Kuppanna Park, Nazarbad, Mysuru, Karnataka</item>
+        <item>Landscaped green space with paved paths, a musical fountain and a glass greenhouse for flower shows.</item>
+        <item>https://starofmysore.com/tag/kuppanna-park/</item>
+    </string-array>
+
+    <!-- Freedom Fighter's Park -->
+    <string-array name="park_freedom_fighter">
+        <item>Freedom Fighter\'s Park</item>
+        <item>4.1</item>
+        <item>@drawable/park_freedom_fighter</item>
+        <item>7:00AM&#8211;6:30PM</item>
+        <item>Free</item>
+        <item>Freedom Fighter\'s Park, Chamaraja Double Road, Subbarayanakere, Chamrajpura, Mysuru, Karnataka</item>
+        <item>Freedom Fighter\'s Park is famous for its resplendent beauty, vibrant flower beds and lush green lawns. The park also has a separate play area for kids and space for yoga, meditation. Has many statues of Freedom Fighters, Gandhi ji, Dandi March, and other monuments.</item>
+        <item>https://starofmysore.com/tag/freedom-fighters-park/</item>
+    </string-array>
+
+</resources>

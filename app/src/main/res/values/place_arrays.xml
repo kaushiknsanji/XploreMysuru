@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This resource is used for storing the information for Places -->
+
+    <!-- Template followed for the Places data -->
+    <!--<string-array name="place_template">
+        <item>Name</item>
+        <item>Star Rating (in Number)</item>
+        <item>Place Types</item>
+        <item>Type icon (path to drawable)</item>
+        <item>Place Image (path to drawable)</item>
+        <item>Time info</item>
+        <item>Entry Fee</item>
+        <item>Location for Map</item>
+        <item>Brief description</item>
+        <item>Site link to more info</item>
+    </string-array>-->
+
+    <!-- Mysore Palace -->
+    <string-array name="place_mysore_palace">
+        <item>Mysore Palace</item>
+        <item>4.6</item>
+        <item>Palace/Heritage</item>
+        <item>@drawable/layer_place_palace</item>
+        <item>@drawable/place_mysore_palace</item>
+        <item>10:00AM&#8211;8:00PM</item>
+        <item>Adult: ₹50\nChild (7&#8211;12 yr): ₹30</item>
+        <item>Mysore Palace, Sayyaji Rao Rd, Agrahara, Chamrajpura, Mysuru, Karnataka</item>
+        <item>The Palace of Mysore is a historical palace in the city of Mysore in Karnataka, southern India. It is the official residence and seat of the Wodeyars and rulers of Mysore, the royal family of Mysore, who ruled the princely state from 1399 to 1950. The palace is in the central region of inner Mysore, facing the Chamundi Hills eastward.
+Mysore is commonly described as the City of Palaces. There are about seven palaces inclusive of this; however, Mysore Palace refers specifically to the one within the Old Fort. Built by the Maharaja Rajarshi His Highness Krishnarajendra Wadiyar IV, Mysore Palace is now one of the most famous tourist attractions in India, after the Taj Mahal, with more than 6 million annual visitors.\n\nThe architectural style of domes of the palace is commonly described as Indo-Saracenic and blends Hindu, Muslim, Rajput, and Gothic styles. The palace houses two durbar halls (ceremonial meeting halls of the royal court) and incorporates an array of courtyards, gardens, and buildings. The palace complex includes twelve Hindu temples - the oldest was built in the 14th century, while the most recent was built in 1953.</item>
+        <item>http://mysorepalace.gov.in/index.html</item>
+    </string-array>
+
+    <!-- Chamundi Hill Temple -->
+    <string-array name="place_chamundi_temple">
+        <item>Chamundeshwari Temple</item>
+        <item>4.5</item>
+        <item>Pilgrimage</item>
+        <item>@drawable/layer_place_temple</item>
+        <item>@drawable/place_chamundi_temple</item>
+        <item>7:30AM&#8211;2:00PM\n3:30PM&#8211;6:00PM\n7:30PM&#8211;9:00PM</item>
+        <item>Free</item>
+        <item>Chamundeshwari Temple, Chamundi Hill, Mysuru, Karnataka</item>
+        <item>At a distance of 13.5km from Mysore Railway Station and 8.5km from Mysore Zoo, Chamundi Hill is very famous for Chamundeswari temple dedicated to Goddess Chamundeswari, an incarnation of Goddess Parvathi who took this form to destroy Mahishasura. Also known as Krouncha Pitham, Chamundi Temple is one among the 18 Maha Shakti Peethas representing the hair of Sati Devi and among the prime place to visit on a Mysore trip.\n\nAt an altitude of 1065 meters, the temple on Chamundi Hill was built in 11th century. For centuries, the Wodeyars of Mysore revered the deity and made extensive contributions to this shrine. The idol of goddess Chamundi inside the central sanctum was made with pure gold. The temple is a fine example of Dravidian temple architecture. The temple possesses lots of images of Nandi. The most famous is the 15 feet high and 24 feet long Nandi on the 800th step on the hill.\n\nThe temple tower is 40 meters high with 7 stories which is painted in gold color. There are several images of the goddess in different formns carved on outer walls of the temple. The doorway of the tower has a beautiful image of Ganesha. The main tower is followed by another tower which leads to the mahamandapa of the temple which has plain pillars followed by antarala and the sanctum. Most of the times, the pilgrims have to get a glimpse of the goddess from mahamandapa. Those who are performing special poojas are allowed into the Antarala area close to the deity.\n\nThere is a colorful image of the Mahishasura situated on the summit of the Chamundi Hill. Well laid motorable road is available to the hill top near the temple. There are also one thousand steps from bottom for those who prefer to walk.</item>
+        <item>http://chamundeshwaritemple.in/</item>
+    </string-array>
+
+    <!-- Mysore Zoo -->
+    <string-array name="place_mysore_zoo">
+        <item>Mysore Zoo</item>
+        <item>4.5</item>
+        <item>Wildlife</item>
+        <item>@drawable/layer_place_wildlife</item>
+        <item>@drawable/place_mysore_zoo</item>
+        <item>8:30AM&#8211;5:30PM\nClosed on Tuesdays</item>
+        <item>Adult: ₹50,\n₹60 (Weekend)\nChild (5&#8211;12 yr): ₹20,\n₹30 (Weekend)</item>
+        <item>Sri Chamarajendra Zoological Gardens, Zoo Main Road, Indira Nagar, Mysuru, Karnataka</item>
+        <item>Sri Chamarajendra Zoological Gardens, also known as the Mysore Zoo is one of the best zoological gardens in India. Maharaja Chamaraja Wodeyar established this Zoo in the year 1892 for the Royals. Furthermore, after the attainment of freedom, it was handed over to the Department of Parks and Gardens of the State Govt. The Zoo\'s meticulous planning is responsible for making it a special zoological garden. It tends to create a natural habitat for the animals in it. From Big to small cats, Aquatic to terrestrial birds, and Primates to reptiles, one Hundred and Sixty-Eight species find their place in this zoo. The world\'s first caesarian section delivery performed on an elephant in Mysore zoo gave it global fame and recognition.\n\nLocated near the palace in Mysore, the Zoological Garden covers an area of 157 acres. It is one of the oldest and most famous zoos in India. It plays the role of an orphanage to the abandoned animals. The Zoo carries certain Education Programmes such as Youth Club activities, Literary Competitions, and Summer Camp activities. </item>
+        <item>https://mysorezoo.info/</item>
+    </string-array>
+
+    <!-- Saint Philomena's Church -->
+    <string-array name="place_philomena_church">
+        <item>Saint Philomena\'s Church</item>
+        <item>4.3</item>
+        <item>Pilgrimage</item>
+        <item>@drawable/layer_place_cathedral</item>
+        <item>@drawable/place_philomena_church</item>
+        <item>5:00AM&#8211;6:00PM</item>
+        <item>Free</item>
+        <item>Saint Philomena\'s Church, Lourdes Nagar, Ashoka Road, Lashkar Mohalla, Mysuru, Karnataka</item>
+        <item>Recognized as the second tallest church of Asia, St. Philomena\'s Church was constructed to pay tribute to the Catholic Saint and martyr of Roman Catholic Church, Saint Philomena. It is one of the most important historical sites in Mysore and is frequently visited by tourists from all over the country. The church is beautiful and one of the most distinctive landmarks of the city. It looks even more beautiful in the evening sky and is given religious importance having a Neo-Gothic style of architecture which makes it all the more famous amongst masses.\n\nThe foundation for the church was laid in the year 1933 by the then king of Mysore, Sri Krishnarajendra Wodeyar Bahadur IV for the European residents in the city. After the construction went on for about eight years, the church started functioning in the year 1941. The remains of Saint Philomena have been preserved here and are present even today.\n\nSaint Philomena was the daughter of the monarch of Greece and had always been a devotee of God and believed in him. She was taken to meet the Emperor when she was 13 years old, after which, the Emperor on seeing her beauty offered to marry her. However, she refused and the emperor ordered to have her executed. The church stands as a symbol of the secular viewpoint and the religious accord of Mysore.</item>
+        <item>http://www.philomena.org/mysore.asp</item>
+    </string-array>
+
+    <!-- Jagan Mohan Palace -->
+    <string-array name="place_jagan_mohan_palace">
+        <item>Jagan Mohan Palace</item>
+        <item>4.2</item>
+        <item>Museum/Heritage</item>
+        <item>@drawable/layer_place_museum</item>
+        <item>@drawable/place_jagan_mohan_palace</item>
+        <item>10:00AM&#8211;5:30PM</item>
+        <item>Adult: ₹20\nChild(5&#8211;10years): ₹10</item>
+        <item>Jagan Mohan Palace, Opp. City Bus Stand, Devraj mohalla, Deshika Road, Chamrajpuram, Mysuru, Karnataka</item>
+        <item>Situated in the majestic city of Mysore, the Jaganmohan Palace is a spectacular edifice that has an illustrious history attached to its name. Built in the year 1869, it was used by the Wodeyars of Mysore when their main residence Amba Vilas Palace was under renovations post a fire accident. It is one of the seven palaces that are situated in the city and is counted as one of the most beautiful contributions of the Wodeyar Kings of the city during their reign. The Jaganmohan Palace was converted into a magnificent art gallery and today hosts some of the most exquisite pieces of artwork for all to see.\n\nJaganmohan Palace held an important position in the administrative and legislative affairs of Mysore for a long period of time. From hosting the early convocations of the Mysore University to holding the first session of the Legislative Council of Mysore, this facade has seen it all. Finally, in 1915, the palace was deemed fit to be an art gallery and is a safe house for as many as 2000 paintings which pertain to various art forms such as Mysore, Mughal and Shantiniketan. Mimicking the beautiful art that is housed within, the architecture of Jaganmohan Palace is intricate and detailed beautifully. The main door is a wonderful example of typical Hindu style of architecture and two wooden displays illustrating the ten incarnations of Lord Vishnu embellish the premises as well. Visit this destination to experience the history of Mysore through colours and pictures that will leave a long&#8211;lasting impression on your mind.</item>
+        <item>https://www.karnataka.com/mysore/jaganmohan-palace/</item>
+    </string-array>
+
+    <!-- Regional Museum of Natural History -->
+    <string-array name="place_rmnh">
+        <item>Regional Museum of Natural History</item>
+        <item>4.2</item>
+        <item>Museum</item>
+        <item>@drawable/layer_place_museum</item>
+        <item>@drawable/place_rmnh</item>
+        <item>10:00AM&#8211;6:00PM\nClosed on Mondays</item>
+        <item>Free</item>
+        <item>Regional Museum of Natural History, T.N.Pura Road, Opp. Nandini Milk Dairy, Siddhartha Nagar, Mysuru, Karnataka</item>
+        <item>At a distance of 5km from Mysore Railway Station and 2.2km from Mysore Zoo, the Regional Museum of Natural History, located on the banks of Karanji Lake, is one of the best Mysore tourist places. The museum exhibits plants, animals and geology of the southern region of India. The galleries of the museum are presented under the divisions of Man and the Environment, Ecology, Life through the Ages, Biological Diversity, and Conservation for Development. The galleries emphasize the conservation of nature and natural resources while depicting ecological interrelationship among plants and animals.
+Visually challenged students can feel the exhibits of animals on the premises. The museum provides an extracurricular activity for schools and promotes environmental awareness. They also arrange film shows on topics related to natural history. The lobby of the museum has beautiful art work of Elephants made of metal wire. Has life size images of several wild animals and a dinosaur. The museum was inaugurated in May 1995 and was undertaken by the government of India, ministry of environment and forests. This museum is a wonderful place for children to understand the nature and its importance. </item>
+        <item>http://nmnh.nic.in/mysore.htm</item>
+    </string-array>
+
+    <!-- Lalitha Mahal Palace -->
+    <string-array name="place_lalitha_mahal">
+        <item>Lalitha Mahal Palace</item>
+        <item>4.0</item>
+        <item>Palace/Heritage</item>
+        <item>@drawable/layer_place_palace</item>
+        <item>@drawable/place_lalitha_mahal</item>
+        <item>10:00AM&#8211;6:00PM</item>
+        <item>₹100</item>
+        <item>Lalitha Mahal Palace, Lalitha Mahal Palace Road, Siddhartha Layout, Mysuru, Karnataka</item>
+        <item>At a distance of 7km from Mysore Railway Station and 4km from Mysore Zoo, Lalitha Mahal Palace is located close to Chamundi Hill Road. This is the second largest palace in Mysore after The Mysore Palace. It is one of the top Mysore tourist places and among the best palaces in Mysore. Built in 1921 by Maharaja Krishna Raja Wodeyar Bahaddur IV, this palace initially housed royal guests. It was designed by EW Fritchley from Mumbai in European and Indian styles. The palace is beautifully designed and it is one of the most attractive palaces in South India. The lobby and corridors of the palace have beautiful paintings of Mysore rulers and historical events of Mysore kingdom, like the siege of Srirangapatna Fort, Tipus Sons, etc. The staircase of the palace is wonderfully designed. The most attractive part of the palace is the restaurant block. The curved roof and the glass dome at the centre follow splendid architectural interest of the Mysore rulers.\n\nAfter Indian independence, and the integration of the Mysore state with the Union of India, the palace became a property of the state Government of Karnataka. The palace now houses a five-star hotel and maintained by the India Tourist Development Corporation.\n\nNow a popular venue for local film shoots and other social gatherings, a visit to the palace may help visitors understand the mystique of royal Mysore. The palace is noted for its white colour, which is visible from a great distance. The palace is adorned with a well maintained garden.</item>
+        <item>http://www.lalithamahalpalace.co.in/</item>
+    </string-array>
+
+    <!-- Sand Sculpture Museum -->
+    <string-array name="place_sand_sculpture">
+        <item>Sand Sculpture Museum</item>
+        <item>4.0</item>
+        <item>Museum</item>
+        <item>@drawable/layer_place_museum</item>
+        <item>@drawable/place_sand_sculpture</item>
+        <item>8:30AM&#8211;6:30PM</item>
+        <item>Adult: ₹40\nChild: ₹20</item>
+        <item>Sand Sculpture Museum, Chamundi Hill Road, KC Layout, Mysuru, Karnataka</item>
+        <item>Mysore Sand Sculpture Museum is India\'s first sand sculpture museum and is located in Mysore, close to the Chamundi Hills. The museum is spread over an area of about 13500 square feet and was created by M. N. Gowri, who has a Bachelor in Fine Arts and who wanted to show something unique to the tourists. You will be taken to another world where these magnificent pieces of art have been made with the use of only sand of water.\n\nThere are over 150 sculptures that are exhibited here. It is amazing how a temporary sand sculpture you make on beaches is made permanently to stay here at this museum. The most prominent themes visible are the heritage of Mysore, scenes from epic mythological stories, wildlife, and religions around the globe. A giant sculpture of Lord Ganesha welcomes you right at the entrance of the museum.</item>
+        <item>https://www.museumsofindia.org/museum/420/mysore-sand-sculpture-museum</item>
+    </string-array>
+
+    <!-- Venugopala Swamy Temple -->
+    <string-array name="place_venugopala_temple">
+        <item>Sri Venugopala Swamy Temple</item>
+        <item>4.5</item>
+        <item>Temple</item>
+        <item>@drawable/layer_place_temple</item>
+        <item>@drawable/place_venugopala_temple</item>
+        <item>6:00AM&#8211;8:00PM</item>
+        <item>Free</item>
+        <item>Sri Venugopala Swamy Temple, Krishna Rajasagara, Kannambadi, Mandya, Karnataka</item>
+        <item>A masterpiece of Hoysala architecture style, the Venugopala Swamy Temple is a spectacular site to visit. Located in the village of Hosakannambadi, near Krishna Raja Sagara Dam (KRS Dam), this shrine not only attracts devotees but also historians and archaeologists. Built in the 12th century, the temple is dedicated to Lord Venugopala Swamy, who is also known as Lord Krishna.\n\nThe relocation of this majestic structure took place in 2004 and was not an easy task, requiring huge work force and precision. This mammoth task of shifting the shrine began by taking thousands of pictures, in order to avoid any mistake in the restructuring. The temple walls and pillars were polished to give a new look without hampering the original work. It was disassembled piece by piece and then rearranged meticulously in exactly the same manner.\n\nOriginally, the temple complex covered around 50 acres of land and featured 46 shrines. At present, it is a symmetrical structure enclosed by two prakara and an outer gate or mahadwara. It features a garbha griha (sanctum sanctorum), middle hall, vestibule and mukhya mandapa (main hall). The exquisitely designed temple tower is the prominent highlight of the complex. Its flute design features intricately carved blocks, placed one over the other without using mortar. These blocks are placed in such a manner that it is quite impossible to spot the joints.</item>
+        <item>https://en.wikipedia.org/wiki/Venugopala_Swamy_Temple</item>
+    </string-array>
+
+    <!-- KRS Dam -->
+    <string-array name="place_krs">
+        <item>Krishna Raja Sagara Dam</item>
+        <item>4</item>
+        <item>Dam/Heritage</item>
+        <item>@drawable/layer_place_dam</item>
+        <item>@drawable/place_krs</item>
+        <item>6:30AM&#8211;9:00PM</item>
+        <item>Adult: ₹15\nChild: ₹5</item>
+        <item>Krishna Raja Sagara Dam, Karnataka, India</item>
+        <item>One of the famous dams of South India, Krishna Raja Sagara Dam is often called as KRS Dam. Named after Krishnaraja Wodeyar IV of Mysore, this dam is built over the River Cauvery/Kaveri; near to the conjunction of three rivers namely, Cauvery, Hemavathi and Lakshmana Thirtha. A major source of drinking water for Mysore and Bangalore city, KRS dam is also one of the main sources of irrigation water for Mandya and Mysore. Along with this, it major purpose is to ensure power supply to the Shivanasamudra hydroelectric power station. With a length of 3km, this dam also boasts of being the first irrigation dam of India.\n\nWhat set this dam apart from other dams are the exceptionally beautiful site and the areas around it. The dam site is bestowed with colorful, stunning and even illuminated gardens, musical fountains and water bodies. The beauty of the site is so riveting that it is often used for shooting of movies. Located between Srirangapatna town and Mysore city, KRS Dam is not only an important part of Mysore trip but also presents a suitable weekend getaway from Bangalore. Proximity to another popular sightseeing place in Mysore, Brindavan Gardens, which have been created in its complex, makes a visit to this dam a must for every traveller.</item>
+        <item>https://en.wikipedia.org/wiki/Krishna_Raja_Sagara</item>
+    </string-array>
+
+    <!-- Sachchidananda Ashram -->
+    <string-array name="place_sachchidananda_ashram">
+        <item>Sri Ganapathi Sachchidananda Ashram</item>
+        <item>4.7</item>
+        <item>Temple</item>
+        <item>@drawable/layer_place_temple</item>
+        <item>@drawable/place_sachchidananda_ashram</item>
+        <item>6:00AM&#8211;1:00PM\n5:00PM&#8211;9:00PM\nClosed on Wednesdays</item>
+        <item>Free</item>
+        <item>Sri Ganapathi Sachchidananda Ashram, Datta Nagar, Mysuru, Karnataka, India</item>
+        <item>Ganapati Sachidananda Ashrama is well known as Avadhoota Datta Peetham. It is an International Spiritual, Cultural and Social Welfare organisation established by His Holiness Sri Ganapathy Sachchidananda Swamiji in 1966.Sri Sri Ganapathi Sachchidananda Swamiji is the head of Avadhoota Datta Peetham in Mysore. The ashrama offers many services and attractions like Yoga center, Bonsai garden, Shuka vana (the rehabilitation center for birds), meditation music etc. The nearest railway station is Mysore railway station, which is around 5km away from the Ashrama, and Mysore city bus stand is around 3km away from the Peetham. It is well connected to the all parts of the city by local transport.</item>
+        <item>https://www.dattapeetham.org/</item>
+    </string-array>
+
+    <!-- GRS Fantasy Park -->
+    <string-array name="place_grs_fantasy_park">
+        <item>GRS Fantasy Park</item>
+        <item>4.1</item>
+        <item>Theme Park</item>
+        <item>@drawable/layer_place_water_park</item>
+        <item>@drawable/place_grs_fantasy_park</item>
+        <item>10:30AM&#8211;7:30PM(Sun)\n10:30AM&#8211;6:00PM(Mon&#8211;Sat)</item>
+        <item>₹600 (varies based on age and height)</item>
+        <item>GRS Fantasy Park, KRS Rd, Metagalli, Mysuru, Karnataka</item>
+        <item>GRS Fantasy Park is an amusement and water theme park that serves perfectly as a picnic spot for everyone. It offers numerous thrilling fun rides and multipurpose play system for kids and adults. Water games and kid\'s pool are the main attraction of the park. There are many inbuilt games at Amazonia which is an interactive river. What is more, facilities such as lockers, changing rooms, restaurants, gift shop, amphitheatre and gift shop are also situated in the premises to facilitate your trip. In short, the experience and the ambience at GRS Fantasy Park is simply exhilarating.</item>
+        <item>http://www.grsfantasypark.com/</item>
+    </string-array>
+
+</resources>

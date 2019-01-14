@@ -1,0 +1,74 @@
+<resources>
+    <!-- Name of the App -->
+    <string name="app_name">Xplore Mysuru</string>
+
+    <!-- List of Titles for the Bottom Navigation Menu items -->
+    <string name="title_nav_places">Places</string>
+    <string name="title_nav_parks">Parks</string>
+    <string name="title_nav_hotels">Hotels</string>
+    <string name="title_nav_restaurants">Restaurants</string>
+    <string name="title_nav_shops">Shops</string>
+
+    <!-- Common Bullet Mark Text -->
+    <string name="all_bullet_mark" translatable="false">\t \u2022 \t</string>
+
+    <!-- Common Action labels -->
+    <string name="action_expand">Expand</string>
+    <string name="action_collapse">Collapse</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- Common Snackbar Actions -->
+    <string name="snackbar_action_ok">OK</string>
+
+    <!-- Common Errors -->
+    <string name="error_all_no_link">No link available!</string>
+    <string name="error_all_no_contact">No contact available!</string>
+
+    <!-- Common Chooser Titles -->
+    <string name="chooser_title_all_location">Share the location address with …</string>
+    <string name="chooser_title_all_contact">Share the contact number with …</string>
+
+    <!-- =================================== -->
+    <!-- STRINGS USED IN PLACE LIST FRAGMENT -->
+    <!-- =================================== -->
+    <string name="place_list_load_error">Error while loading list of Places. Click on Refresh button to reload.</string>
+
+    <!-- ================================== -->
+    <!-- STRINGS USED IN PARK LIST FRAGMENT -->
+    <!-- ================================== -->
+    <string name="park_list_load_error">Error while loading list of Parks. Click on Refresh button to reload.</string>
+
+    <!-- =================================== -->
+    <!-- STRINGS USED IN HOTEL LIST FRAGMENT -->
+    <!-- =================================== -->
+    <string name="hotel_list_load_error">Error while loading list of Hotels. Click on Refresh button to reload.</string>
+
+    <!-- ======================================== -->
+    <!-- STRINGS USED IN RESTAURANT LIST FRAGMENT -->
+    <!-- ======================================== -->
+    <string name="restaurant_list_load_error">Error while loading list of Restaurants. Click on Refresh button to reload.</string>
+
+    <!-- ================================== -->
+    <!-- STRINGS USED IN SHOP LIST FRAGMENT -->
+    <!-- ================================== -->
+    <string name="shop_list_load_error">Error while loading list of Shops. Click on Refresh button to reload.</string>
+
+    <!-- ============================== -->
+    <!-- STRINGS USED IN ABOUT ACTIVITY -->
+    <!-- ============================== -->
+    <string name="about_title">About</string>
+    <!-- For the introductory text about the App -->
+    <string name="about_content_intro">App designed and developed by &lt;b&gt;Kaushik N Sanji&lt;/b&gt; as part of the project coursework done for the &lt;b&gt;Android Basics Nanodegree&lt;/b&gt; course offered by &lt;b&gt;Udacity&lt;/b&gt;.</string>
+    <!-- For the brief description text about the App -->
+    <string name="about_content_desc">
+        This is a Tour Guide App to guide the user in exploring the &lt;b&gt;&quot;City of Palaces&quot;/&quot;Mysore&quot;/&quot;Mysuru&quot;&lt;/b&gt;. App lists top &lt;b&gt;Places&lt;/b&gt; and &lt;b&gt;Parks&lt;/b&gt; to visit, best &lt;b&gt;Hotels&lt;/b&gt; to stay, some good &lt;b&gt;Restaurants&lt;/b&gt; for foodies and nice &lt;b&gt;Shopping&lt;/b&gt; destinations.
+        &lt;br/&gt;&lt;br/&gt;App Icon, the vector illustration of Mysore Palace, is a beautiful work of &lt;a href=&quot;https://dribbble.com/shots/2208630-Mysore-Palace&quot;&gt;Ranganath Krishnamani&lt;/a&gt;. Do check out other designs by his famous team &lt;a href=&quot;http://www.liquidink.design/about&quot;&gt;Liquid Ink&lt;/a&gt;.&lt;br/&gt;
+    </string>
+    <!-- Link to the course -->
+    <string name="about_link_udacity_course" translatable="false">https://in.udacity.com/course/android-basics-nanodegree-by-google--nd803</string>
+    <!-- Link to the developer's portfolio -->
+    <string name="about_link_github_profile" translatable="false">https://github.com/kaushiknsanji</string>
+    <!-- Link to the developer's bio -->
+    <string name="about_link_linkedin_profile" translatable="false">https://www.linkedin.com/in/kaushiknsanji</string>
+
+</resources>

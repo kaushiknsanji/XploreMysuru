@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This resource is used for storing the information for Shops -->
+
+    <!-- Template followed for the Shop data -->
+    <!--<string-array name="shop_template">
+        <item>Name</item>
+        <item>Shop Type</item>
+        <item>Rating (in Number)</item>
+        <item>Shop Image (path to drawable)</item>
+        <item>Timings</item>
+        <item>Location for Map</item>
+        <item>Site link to more info</item>
+    </string-array>-->
+
+    <!-- Devaraj Urs Road -->
+    <string-array name="shop_devaraj_urs_road">
+        <item>Devaraj Urs Road</item>
+        <item>Shopping street</item>
+        <item>4.5</item>
+        <item>@drawable/shop_devaraj_urs_road</item>
+        <item>9:00AM&#8211;10:00PM</item>
+        <item>Devaraj Urs Road, Mysuru, Karnataka</item>
+        <item>https://en.wikipedia.org/wiki/Devaraj_Urs_Road,_Mysore</item>
+    </string-array>
+
+    <!-- KSIC Silk Factory and Showroom -->
+    <string-array name="shop_ksic">
+        <item>KSIC Silk Factory and Showroom</item>
+        <item>Clothing Store</item>
+        <item>4.5</item>
+        <item>@drawable/shop_ksic</item>
+        <item>10:00AM&#8211;6:30PM\n10:00AM&#8211;5:30PM (Sun)</item>
+        <item>KSIC Mysore silk, Mananthavadi Rd, Vidayaranya Puram, Mysuru, Karnataka</item>
+        <item>http://www.ksicsilk.com/Web/Mananthody</item>
+    </string-array>
+
+    <!-- KK Suryanis The Silk Side -->
+    <string-array name="shop_suryanis_silks">
+        <item>KK Suryanis The Silk Side</item>
+        <item>Clothing Store</item>
+        <item>4.8</item>
+        <item>@drawable/shop_suryanis_silks</item>
+        <item>10:00AM&#8211;8:30PM</item>
+        <item>KK Suryanis The Silk Side, 947, Zoo Rd, Indira Nagar, Ittige Gudu, Mysuru, Karnataka</item>
+        <item>https://www.facebook.com/KKSURYANIS/</item>
+    </string-array>
+
+    <!-- Suryani Fine Arts -->
+    <string-array name="shop_suryani_fine_arts">
+        <item>Suryani Fine Arts</item>
+        <item>Handicraft Store</item>
+        <item>3.8</item>
+        <item>@drawable/shop_suryani_fine_arts</item>
+        <item>10:00AM&#8211;8:30PM\nClosed on Sundays</item>
+        <item>Suryani Fine Arts, 519, Dhanvanthri Road, Near K R Hospital, Devaraja Mohalla, Yadavagiri, Mysuru, Karnataka</item>
+        <item> </item>
+    </string-array>
+
+    <!-- Garuda Mall -->
+    <string-array name="shop_garuda_mall">
+        <item>Garuda Mall</item>
+        <item>Shopping Mall</item>
+        <item>2.5</item>
+        <item>@drawable/shop_garuda_mall</item>
+        <item>9:00AM&#8211;10:00PM (Weekdays)\n11:00AM&#8211;11:00PM (Weekends)</item>
+        <item>Garuda Mall, Albert Victor Road, Agrahara, Mysuru, Karnataka</item>
+        <item> </item>
+    </string-array>
+
+    <!-- Badsha Stores -->
+    <string-array name="shop_badsha_stores">
+        <item>Badsha Stores</item>
+        <item>Clothing Store</item>
+        <item>4.7</item>
+        <item>@drawable/shop_badsha_stores</item>
+        <item>10:00AM&#8211;9:00PM\n10:00AM&#8211;8:00PM (Sun)</item>
+        <item>Badsha Stores, Shop# 5, Vishveshwarya Bhawan, KR Circle, Devaraja Mohalla, Mysuru, Karnataka</item>
+        <item>http://www.badshastores.com/</item>
+    </string-array>
+
+    <!-- Mall of Mysore -->
+    <string-array name="shop_mall_of_mysore">
+        <item>Mall of Mysore</item>
+        <item>Shopping Mall</item>
+        <item>4.2</item>
+        <item>@drawable/shop_mall_of_mysore</item>
+        <item>10:00AM&#8211;10:00PM</item>
+        <item>Mall of Mysore, No.C&#8211;1, M.G Road Indira Nagar Extension, Nazarbad Mohalla, Mysuru, Karnataka</item>
+        <item>http://mallofmysore.com/</item>
+    </string-array>
+
+    <!-- B.M. Habitat Mall -->
+    <string-array name="shop_bm_habitat_mall">
+        <item>B.M. Habitat Mall</item>
+        <item>Shopping Mall</item>
+        <item>4.0</item>
+        <item>@drawable/shop_bm_habitat_mall</item>
+        <item>10:00AM&#8211;10:00PM</item>
+        <item>B.M. Habitat Mall, 1st Floor, 3rd Block, Jayalakshmipuram, Mysuru, Karnataka</item>
+        <item>http://bmhabitatmall.com/</item>
+    </string-array>
+
+    <!-- Forum Centre City Mall -->
+    <string-array name="shop_forum_centre_city_mall">
+        <item>Forum Centre City Mall</item>
+        <item>Shopping Mall</item>
+        <item>4.4</item>
+        <item>@drawable/shop_forum_centre_city_mall</item>
+        <item>10:00AM&#8211;10:00PM</item>
+        <item>Forum Centre City Mall, No.8 &amp; N&#8211;5, Hyder Ali Road, Nazarbad Mohalla, Jyothi Nagar, Gayathri Puram, Mysuru, Karnataka</item>
+        <item>http://forummalls.in/forum-centre-city/</item>
+    </string-array>
+
+    <!-- Mysore Central Store -->
+    <string-array name="shop_mysore_central">
+        <item>Mysore Central Store</item>
+        <item>Shopping Mall</item>
+        <item>4.1</item>
+        <item>@drawable/shop_mysore_central</item>
+        <item>11:00AM&#8211;9:30PM</item>
+        <item>Mysore Central Store, Lane No. 5211, Bangalore Nilgiri Rd, Lashkar Mohalla, Mandi Mohalla, Mysuru, Karnataka</item>
+        <item>https://centralandme.com/</item>
+    </string-array>
+
+</resources>
