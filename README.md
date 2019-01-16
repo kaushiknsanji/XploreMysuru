@@ -194,9 +194,9 @@ _As per the Rubric, no third party library is used for loading images._
 
 ---
 
-<!-- ## Review from the Reviewer (Udacity)
+## Review from the Reviewer (Udacity)
 
- -->
+![review](https://user-images.githubusercontent.com/26028981/51263273-edd0ea00-19d9-11e9-837c-7ceb4aefb8c0.png)
 
 <!-- Reference Style Links are to be placed after this -->
 [MainActivity]: /app/src/main/java/com/example/kaushiknsanji/xploremysuru/ui/MainActivity.java
