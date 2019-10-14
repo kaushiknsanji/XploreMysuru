@@ -1,5 +1,8 @@
 # XploreMysuru - The Tour Guide App for "Mysore, Karnataka, India"
 
+![GitHub](https://img.shields.io/github/license/kaushiknsanji/XploreMysuru)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kaushiknsanji/XploreMysuru)  ![GitHub repo size](https://img.shields.io/github/repo-size/kaushiknsanji/XploreMysuru)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/kaushiknsanji/XploreMysuru)  ![GitHub All Releases](https://img.shields.io/github/downloads/kaushiknsanji/XploreMysuru/total) ![GitHub search hit counter](https://img.shields.io/github/search/kaushiknsanji/XploreMysuru/Tour%20Guide%20App) ![Minimum API level](https://img.shields.io/badge/API-15+-yellow)
+
 This App has been developed as part of the **Udacity Android Basics Nanodegree Course** for the Exercise Project **"Tour Guide App"**. App guides the user in exploring the **"City of Palaces"/"Mysore"**.
 
 ---
@@ -20,6 +23,20 @@ Android device running with Android OS 4.0.4 (API Level 15) or above. Best exper
 * Uses Custom Adapter to populate the layout with the views based on the instance of the Custom class.
 * Images are stored as drawables in multiple densities.
 * Strings are stored in strings.xml resource file.
+
+---
+
+## Stuff explored/developed in addition to the above defined Rubric
+
+* Used `ConstraintLayout` heavily for most of the layouts along with custom `styles`.
+* Implemented **MVP + Repository** pattern with App Resources.
+* Explored `BottomNavigationView` for Navigating between the lists of attraction.
+* Implemented [Snap Behavior][BottomNavigationBehavior] for `BottomNavigationView` that hides the `BottomNavigationView` when more than or equal to half of its height is translated away. The Behavior also takes care of docking the Snackbar on top of the `BottomNavigationView` when shown.
+* Used `CardView` for displaying each place of attraction.
+* Implemented Loading of Images in a background thread through a Headless [Fragment][ImageDecoderFragment].
+* Developed [BitmapImageCache][] utility that uses `android.util.LruCache` to cache the recent Bitmap Images decoded. 
+* Carried out Image decoding in a background thread using [ImageDecoder][] that extends `AsyncTaskLoader`.
+* Developed [BitmapUtility][] to extract `Palette` Swatches from the Images.
 
 ---
 
@@ -186,6 +203,13 @@ _As per the Rubric, no third party library is used for loading images._
 
 ---
 
+## Branches in this Repository
+
+* **[udacity](https://github.com/kaushiknsanji/XploreMysuru/tree/udacity)**
+	* Contains the code submitted for review, along with review suggestions incorporated.
+
+---
+
 ## Icon and Image credits
 
 * App Icon, the vector illustration of Mysore Palace is a beautiful work of <a href="https://dribbble.com/shots/2208630-Mysore-Palace">Ranganath Krishnamani</a>. Do check out other designs by his team <a href="http://www.liquidink.design/about">Liquid Ink</a>.
@@ -197,6 +221,26 @@ _As per the Rubric, no third party library is used for loading images._
 ## Review from the Reviewer (Udacity)
 
 ![review](https://user-images.githubusercontent.com/26028981/51263273-edd0ea00-19d9-11e9-837c-7ceb4aefb8c0.png)
+
+---
+
+## License
+
+```
+Copyright 2019 Kaushik N. Sanji
+
+Licensed under the Apache License, Version 2.0 (the "License"); 
+you may not use this file except in compliance with the License. 
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+   
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
 
 <!-- Reference Style Links are to be placed after this -->
 [MainActivity]: /app/src/main/java/com/example/kaushiknsanji/xploremysuru/ui/MainActivity.java
@@ -225,3 +269,4 @@ _As per the Rubric, no third party library is used for loading images._
 [AboutActivity]: /app/src/main/java/com/example/kaushiknsanji/xploremysuru/ui/about/AboutActivity.java
 [AppRepository]: /app/src/main/java/com/example/kaushiknsanji/xploremysuru/data/AppRepository.java
 [ResourceRepository]: /app/src/main/java/com/example/kaushiknsanji/xploremysuru/data/local/ResourceRepository.java
+[BitmapUtility]: /app/src/main/java/com/example/kaushiknsanji/xploremysuru/utils/BitmapUtility.java
