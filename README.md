@@ -207,7 +207,9 @@ _As per the Rubric, no third party library is used for loading images._
 
 * **[udacity](https://github.com/kaushiknsanji/XploreMysuru/tree/udacity)**
 	* Contains the code submitted for review, along with review suggestions incorporated.
-
+* **[release_v1.0](https://github.com/kaushiknsanji/XploreMysuru/tree/release_v1.0)**
+	* Configured an Activity Alias to launch the [MainActivity][].
+	* Other minor changes to prepare the app for local release. 
 ---
 
 ## Icon and Image credits
