@@ -12,6 +12,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.kaushiknsanji.xploremysuru.R;
+import com.example.kaushiknsanji.xploremysuru.cache.BitmapImageCache;
 import com.example.kaushiknsanji.xploremysuru.data.AppRepository;
 import com.example.kaushiknsanji.xploremysuru.ui.about.AboutActivity;
 import com.example.kaushiknsanji.xploremysuru.ui.hotels.HotelListFragment;
@@ -253,4 +254,20 @@ public class MainActivity extends AppCompatActivity
         //Return the New Fragment loaded
         return fragment;
     }
+
+    /**
+     * Called as part of the activity lifecycle when an activity is going into
+     * the background, but has not (yet) been killed.  The counterpart to
+     * {@link #onResume}.
+     */
+    @Override
+    protected void onPause() {
+        super.onPause();
+
+        if (isFinishing()) {
+            //Clearing the Bitmap Cache when the activity is finishing
+            BitmapImageCache.clearCache();
+        }
+    }
+
 }
